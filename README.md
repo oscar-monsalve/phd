@@ -28,6 +28,19 @@
 
 ## Universities/Institutes to apply
 
+### DLR - DAAD research fellowship
+
+DLR-DAAD Research Fellowships“ is a programme implemented by the 'German Aerospace Center' (DLR) and the 'German
+Academic Exchange Service' (DAAD).
+
+This special programme is intended for highly-qualified foreign graduate, doctoral and postdoctoral students as well
+as senior scientists from the fields of Aeronautics, Space, Transportation, Energy and Security. DLR-DAAD Fellowships
+offer outstanding scientists and researchers the opportunity to conduct special research at the institutes of the DLR
+in Germany.
+
+- Main website: https://www.daad.de/de/in-deutschland-studieren/stipendien/daad-foerderprogramme/dlr/
+- DLR Current offers: https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/dlr/current-offers/
+
 
 ### Turbomachinery:
 

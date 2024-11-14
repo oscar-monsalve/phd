@@ -30,7 +30,7 @@
 
 ### Konrad Zuse Schools of Excellence in Artificial Intelligence
 
-[DAAD website](https://www.daad.de/en/the-daad/zuse-schools/)
+[DAAD website - Konrad Zuse Schools](https://www.daad.de/en/the-daad/zuse-schools/)
 
 ### DLR - DAAD research fellowship
 

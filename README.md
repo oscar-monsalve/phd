@@ -1,5 +1,17 @@
 # Notes on the DAAD's phd grants
 
+# Useful Links
+
+- [DAAD Phd in Germany Database](https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/)
+- [DLR Current offers - DAAD](https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/dlr/current-offers/)
+- [DLR Students & doctoral candidates](https://www.dlr.de/en/careers/your-entry/your-career-level/students-doctoral-candidates)
+- [Jülich Job vacancies](https://www.dlr.de/en/careers/your-entry/your-career-level/students-doctoral-candidates)
+- [GERiT: German Research Institutions | DFG](https://www.dlr.de/en/careers/your-entry/your-career-level/students-doctoral-candidates)
+- [Study in Germany - Hochschulkompass](https://www.hochschulkompass.de/en/study-in-germany.html)
+- [Find your PhD position - Research in Germany](https://www.research-in-germany.org/en/your-goal/phd/find-your-phd-position.html)
+
+-------------------------------------------------------------------------------------------------------------------
+
 # IELTS Preparation
 
 - Self-study courses: https://learnenglish.britishcouncil.org/online-courses/self-study

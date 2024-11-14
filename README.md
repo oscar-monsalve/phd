@@ -28,6 +28,10 @@
 
 ## Universities/Institutes to apply
 
+### Konrad Zuse Schools of Excellence in Artificial Intelligence
+
+[DAAD website](https://www.daad.de/en/the-daad/zuse-schools/)
+
 ### DLR - DAAD research fellowship
 
 DLR-DAAD Research Fellowships“ is a programme implemented by the 'German Aerospace Center' (DLR) and the 'German
